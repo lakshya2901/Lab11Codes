@@ -1,0 +1,23 @@
+OUTPUT						INPUT
+
+Create List one:
+
+Number of elements in listi: 			3
+
+The value of node for listi: 			1
+The value of node for listi: 			2
+The value of node for listi: 			3
+
+
+
+Create List two:
+
+Number of elements in list2: 			4
+
+The value of node for list2: 			4
+The value of node for list2: 			5
+The value of node for list2: 			6
+The value of node for list2: 			7
+
+Concatenated list: 1 2 3 4 5 6 7
+

@@ -1,0 +1,14 @@
+OUTPUT								INPUT
+
+Enter the number of elements want to put in LL 		6
+
+Enter the value of Node						3
+Enter the value of Node						6
+Enter the value of Node						1
+Enter the value of Node						0
+Enter the value of Node						2
+Enter the value of Node						7
+
+0 1 2 3 6 7
+
+

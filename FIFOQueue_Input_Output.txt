@@ -1,0 +1,10 @@
+Inserted Element:    	1
+Inserted Element:    	2
+Inserted Element:		3
+
+Deleted element: 		1
+Deleted element:		2
+Deleted element: 		3
+
+Queue is empty
+
