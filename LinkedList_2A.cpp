@@ -1,3 +1,4 @@
+//Concatenate two given list into one big list.
 #include <iostream>
 using namespace std;
 
