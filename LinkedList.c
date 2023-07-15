@@ -1,3 +1,4 @@
+//Creating a LinkedList for student
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
