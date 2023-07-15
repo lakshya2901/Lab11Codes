@@ -1,41 +1,12 @@
-
 OUTPUT									Input
 
-Number of elements you want to insert at the beginning: 	3
-
-Enter the value that you want to add: 				3
-
-Enter the value that you want to add: 				2
-
-Enter the value that you want to add: 				1
-
-1 2 3
-
-
-Number of elements you want to insert at the end:		3
-
-Enter the value that you want to add:				4
-
-Enter the value that you want to add:				5
-
-Enter the value that you want to add:				6
-
-1 2 3 4 5 6
-
-
-Insert Node After value							3
-
-Node value you want to insert: 					7
-
-1 2 3 7 4 5 6
-
-Delete a Node from beginning
-2 3 7 4 5 6
-
-Delete a Node at end
-2 3 7 4 5
-
-Delete a Node input 							7
-
-LinkedList after removing that Node
-2 3 4 5
+Students:
+	Roll: 4, Name: Suryansh, Age: 21
+	Roll: 3, Name: Madan, Age: 19
+	Roll: 2, Name: Abhijit, Age: 20
+	Roll: 1, Name: Lakshya, Age: 19
+	
+After deletion:	
+	Roll: 4, Name: Suryansh, Age: 21
+	Roll: 2, Name: Abhijit, Age: 20
+	Roll: 1, Name: Lakshya, Age: 19
