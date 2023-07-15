@@ -1,3 +1,4 @@
+//Always insert elements at one end, and delete elements from the other end 
 #include <iostream>
 using namespace std;
 
