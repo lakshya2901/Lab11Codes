@@ -1,6 +1,8 @@
+//Input-Output of always insert elements at one end, and delete elements from the other end 
+OUTPUT                INPUT
 Inserted Element:    	1
 Inserted Element:    	2
-Inserted Element:		3
+Inserted Element:		  3
 
 Deleted element: 		1
 Deleted element:		2
